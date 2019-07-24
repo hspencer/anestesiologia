@@ -1,0 +1,28 @@
+@import url('//fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,500,700,800,900&display=swap');
+
+body{
+  background-color: #33FEF5;
+}
+
+#container{
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 32px;
+  width: 80%;
+  max-width: 600px;
+  margin: 3em auto;
+  text-align: center;
+  padding: 3em;
+  border: 1px solid #00C1F3;
+  border-radius: .5ex;
+  background-color: #FFF;
+}
+
+
+#container h1{
+  text-transform: lowercase;
+  color: #00C1F3;
+
+}
+#container p{
+  color: #9F9C9C;
+}
