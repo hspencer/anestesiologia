@@ -1,7 +1,7 @@
 @import url('//fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,500,700,800,900&display=swap');
 
 body{
-  background-color: #33FEF5;
+  background-color: #56a3c9;
 }
 
 #container{
@@ -12,15 +12,15 @@ body{
   margin: 3em auto;
   text-align: center;
   padding: 3em;
-  border: 1px solid #00C1F3;
+  border: 1px solid #236c8e;
   border-radius: .5ex;
-  background-color: #FFF;
+  background-color: white;
 }
 
 
 #container h1{
   text-transform: lowercase;
-  color: #00C1F3;
+  color: #236c8e;
 
 }
 #container p{
